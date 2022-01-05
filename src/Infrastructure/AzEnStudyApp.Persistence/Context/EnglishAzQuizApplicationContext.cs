@@ -408,6 +408,5 @@ namespace AzEnStudyApp.Infrastructure.context
             OnModelCreatingPartial(modelBuilder);
         }
 
-        partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
     }
 }
