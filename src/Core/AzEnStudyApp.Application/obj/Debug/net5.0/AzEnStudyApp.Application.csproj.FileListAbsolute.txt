@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\bin\Debug\net5.0\AzEnStudyApp.Application.deps.json
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\bin\Debug\net5.0\AzEnStudyApp.Application.dll
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\bin\Debug\net5.0\ref\AzEnStudyApp.Application.dll
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\bin\Debug\net5.0\AzEnStudyApp.Application.pdb
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\AzEnStudyApp.Application.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\AzEnStudyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\AzEnStudyApp.Application.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\AzEnStudyApp.Application.AssemblyInfo.cs
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\AzEnStudyApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\AzEnStudyApp.Application.dll
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\ref\AzEnStudyApp.Application.dll
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\AzEnStudyApp.Application.pdb
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\bin\Debug\net5.0\AzEnStudyApp.Domain.dll
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\bin\Debug\net5.0\AzEnStudyApp.Domain.pdb
+C:\Users\User\RiderProjects\AzEnStudyApp\src\Core\AzEnStudyApp.Application\obj\Debug\net5.0\AzEnStudyApp.Application.csproj.CopyComplete
